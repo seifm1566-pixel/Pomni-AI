@@ -8,8 +8,8 @@ const { data } = await response.json()
 m.reply(data)
 };
 
-handler.usage = ["اوبن"];
+handler.usage = ["ثوفا"];
 handler.category = "ai";
-handler.command = ["اوبن"];
+handler.command = [" اوبن"];
 
 export default handler;
